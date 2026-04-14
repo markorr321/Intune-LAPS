@@ -2,6 +2,26 @@
 
 PowerShell module for retrieving and managing Microsoft LAPS (Local Administrator Password Solution) credentials from Entra ID devices via Microsoft Graph API. Features an interactive TUI for device search, password retrieval, clipboard copy, and on-demand password rotation. Browser-based authentication with optional custom app registration support. Cross-platform compatible with **Windows**, **macOS**, and **Linux**. Just run `Start-LAPS` — works out of the box with no configuration, or bring your own app registration for full control.
 
+## Screenshots
+
+### Launch & Authentication
+![Authentication](Screenshots/Step-2.webp)
+
+### Search for a Device
+![Search](Screenshots/Step-3.webp)
+
+### Device Selection
+![Device Selection](Screenshots/Step-4.webp)
+
+### Password Retrieved
+![Password Result](Screenshots/Step-5.webp)
+
+### Copy to Clipboard
+![Copy Password](Screenshots/Step-6.webp)
+
+### Disconnect from Graph
+![Disconnect](Screenshots/Step-8.webp)
+
 ## Features
 
 - **Device Search**: Search Entra ID devices by name with real-time results
