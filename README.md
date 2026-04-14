@@ -16,6 +16,9 @@ PowerShell module for retrieving and managing Microsoft LAPS (Local Administrato
 ### Password Retrieved
 ![Password Result](Screenshots/Step-5.webp)
 
+### Rotate Password
+![Rotate Password](Screenshots/Step-7.webp)
+
 ### Copy to Clipboard
 ![Copy Password](Screenshots/Step-6.webp)
 
